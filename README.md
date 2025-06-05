@@ -1,9 +1,9 @@
 ### Name:Bhumireddy Lakshmi Vardhan Reddy
 ### Reg no: 212223240016
 
-### study-of-basic-gates
-
-**AIM:** 
+### study of basic gates
+## Verification of truth tables for different logic gates and realization using Verilog HDL
+**AIM** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
 
